@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/1340-jump-game-v/) | Hard |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/1871-jump-game-vii/) | Medium |
@@ -394,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1622-fancy-sequence](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/1622-fancy-sequence/) | Hard |
@@ -637,13 +641,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->

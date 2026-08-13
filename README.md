@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/1622-fancy-sequence/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -583,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |

@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/3161-block-placement-queries/) | Hard |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/Akshat-NegI27/Leet-Code-Practice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akshat-NegI27/Leet-Code-New/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
